@@ -1,0 +1,42 @@
+body {
+	background-image: url("../images/dimension.png");
+	    		background-repeat: repeat;
+}
+
+.header , .footer {
+	background-color: #ffffff;
+	border-top: 1px solid #444444; 
+	border-bottom: 1px solid #444444;
+	padding: 10px;
+}
+
+nav {
+	background-color: #444444;
+	color: #ffffff;
+	padding: 5px;
+}
+
+.formtitle {
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+/* unvisited link */
+.header a:link {
+    color: #ffffff;
+}
+
+/* visited link */
+.header a:visited {
+    color: #ffffff;
+}
+
+/* mouse over link */
+.header a:hover {
+    color: #ffffff;
+}
+
+/* selected link */
+.header a:active {
+    color: #ffffff;
+}
